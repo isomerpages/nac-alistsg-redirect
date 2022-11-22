@@ -25,8 +25,8 @@ sections:
       subtitle: Subtitle
       description: Visit our social media pages below to get updates on the arts and
         culture scene
-      button: Social Media
-      url: /faq/
+      button: Facebook
+      url: https://www.facebook.com/TheAListSG/
   - infopic:
       title: When Flowers Fade by Chowk Productions feat. Damaru (60char)
       subtitle: "Subtitle: (30char)"
