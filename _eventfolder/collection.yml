@@ -2,6 +2,7 @@ collections:
   eventfolder:
     output: true
     order:
+      - LET'S GET OUT/.keep
       - Event33.md
       - THE A LIST RECOMMENDS/Event1.md
       - THE A LIST RECOMMENDS/.keep
