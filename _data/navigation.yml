@@ -1,7 +1,7 @@
 logo: /images/AListLogo.png
 links:
   - title: EVENTS
-    url: /contact-us/
+    collection: eventfolder
   - title: NEWS & VIEWS
     url: /example-page/
   - title: Example Folder
