@@ -2,7 +2,7 @@
 layout: homepage
 title: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
 description: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
-image: /images/AListLogo.png
+image: /images/AList_Logo.png
 permalink: /
 notification: Scheduled Maintenance (Can remove this bar too)
 sections:
@@ -43,3 +43,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
