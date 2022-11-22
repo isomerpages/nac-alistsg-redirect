@@ -1,4 +1,4 @@
-title: Title
+title: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
 url: https://www-a-list-sg.cwp-stg.sg
 favicon: /images/AListLogo.png
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
 permalink: none
 baseurl: ""
 exclude:
