@@ -11,11 +11,11 @@ sections:
       subtitle: We are upgrading A-List.sg to serve you better
       background: /images/hero-banner.png
       dropdown:
-        title: Dropdown List
+        title: Social Media
         options:
-          - title: Dropdown 1
+          - title: Facebook
             url: X
-          - title: Dropdown 2
+          - title: Instagram
             url: ""
   - infobar:
       title: Infobar title
