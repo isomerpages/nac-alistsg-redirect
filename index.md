@@ -15,11 +15,11 @@ sections:
         title: Social Media
         options:
           - title: Facebook
-            url: X
+            url: https://www.facebook.com/TheAListSG/
           - title: Instagram
-            url: ""
+            url: https://www.instagram.com/alistsg/?hl=en
           - title: Youtube
-            url: ""
+            url: https://www.youtube.com/user/AListSG
   - infobar:
       title: Infobar title
       subtitle: Subtitle
