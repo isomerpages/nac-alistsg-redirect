@@ -4,8 +4,8 @@ links:
     collection: eventfolder
   - title: NEWS & VIEWS
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: NEWS & VIEWS
+    collection: articlefolder
   - title: Menu Title
     url: /permalink
   - title: Contact Us
