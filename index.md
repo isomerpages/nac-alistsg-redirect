@@ -21,6 +21,8 @@ sections:
         - title: Youtube
           description: ""
           url: https://staging.d17re2ghaaamxs.amplifyapp.com/
+      button: Contact Us
+      url: /contact-us/
   - infobar:
       title: Maintenance
       subtitle: Max30char, no img, only1 link
