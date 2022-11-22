@@ -1,4 +1,5 @@
 collections:
   articlefolder:
     output: true
-    order: []
+    order:
+      - Article1.md
