@@ -1,5 +1,5 @@
 collections:
-  eventfolder:
+  events:
     output: true
     order:
       - THE A LIST RECOMMENDS/.keep
