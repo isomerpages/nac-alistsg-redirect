@@ -15,6 +15,8 @@ sections:
         options:
           - title: Dropdown 1
             url: X
+          - title: Dropdown 2
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
