@@ -6,3 +6,8 @@ links:
     collection: articlefolder
   - title: Contact Us
     url: /contact-us/
+  - title: CONNECT
+    url: /permalink
+    sublinks:
+      - title: CONTACT US
+        url: /contact-us/
