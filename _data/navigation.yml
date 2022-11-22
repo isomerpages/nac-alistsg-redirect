@@ -7,7 +7,7 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: CONNECT
-    url: https://www.form.gov.sg/637c743925ead60011ab0f73
+    url: /contact-us/
     sublinks:
-      - title: CONTACT US
-        url: /contact-us/
+      - title: FEEDBACK
+        url: https://www.form.gov.sg/637c743925ead60011ab0f73
