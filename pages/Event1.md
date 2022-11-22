@@ -7,6 +7,8 @@ description: ""
 
 ![Event1]()
 
+
+
 In their second performance for the _Resonates With Residency_, Chowk will respond to the section of the [_Nothing is Forever_](https://www.nationalgallery.sg/nothingisforever) exhibition that looks at “The Corporeal”, particularly at _Cloud of '68_ by Tang Da Wu. 
 
 Just as Tang experimented with using ephemeral elements in sculpture, Chowk will explore the ephemeral nature of live performance, and how “Nothing is Forever.” They will be accompanied by musicians from Damaru, Singapore's school of traditional Indian drumming.
