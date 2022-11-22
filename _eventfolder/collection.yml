@@ -1,4 +1,5 @@
 collections:
   eventfolder:
     output: true
-    order: []
+    order:
+      - Event1.md
