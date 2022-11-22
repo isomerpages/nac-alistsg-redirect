@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A
-  List (Site Title)"
+  List (This Site Title can be amended but not removed)"
 description: "Experience Singapore's arts and culture with #SGCultureAnywhere |
   The A List (Site Description)"
 image: /images/AList_Logo.png
@@ -25,4 +25,5 @@ sections:
           description: Visit our Youtube (Max 30)
           url: https://staging.d17re2ghaaamxs.amplifyapp.com/
 ---
+
 
