@@ -2,8 +2,8 @@ logo: /images/AListLogo.png
 links:
   - title: Events
     collection: events
-  - title: NEWS & VIEWS
-    collection: articlefolder
+  - title: Articles
+    collection: articles
   - title: Contact Us
     url: /contact-us/
   - title: CONNECT
