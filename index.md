@@ -25,7 +25,12 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      description: Visit our social media pages below to get updates on the arts and
+        culture scene
+      button: Social Media
       url: /faq/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
