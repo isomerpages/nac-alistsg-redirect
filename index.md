@@ -18,6 +18,9 @@ sections:
         - title: Instagram
           description: ""
           url: https://www.instagram.com/alistsg
+        - title: Youtube
+          description: ""
+          url: https://staging.d17re2ghaaamxs.amplifyapp.com/
   - infobar:
       title: Maintenance
       subtitle: Max30char, no img, only1 link
