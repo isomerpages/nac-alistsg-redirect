@@ -1,0 +1,4 @@
+collections:
+  eventfolder:
+    output: true
+    order: []
