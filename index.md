@@ -10,18 +10,11 @@ sections:
       title: Maintenance
       subtitle: We are upgrading A-List.sg to serve you better
       background: /images/hero-banner.png
-      button: Social Media
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      dropdown:
+        title: Dropdown List
+        options:
+          - title: Dropdown 1
+            url: X
   - infobar:
       title: Infobar title
       subtitle: Subtitle
