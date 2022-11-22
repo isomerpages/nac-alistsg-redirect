@@ -34,4 +34,8 @@ sections:
       url: /event1/
       image: /images/Event1.png
       alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
