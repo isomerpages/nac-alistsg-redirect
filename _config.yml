@@ -1,4 +1,5 @@
-title: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
+title: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A
+  List (Site Title)"
 url: https://www-a-list-sg.cwp-stg.sg
 favicon: /images/AList_Logo.png
 colors:
@@ -15,7 +16,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
+description: "Experience Singapore's arts and culture with #SGCultureAnywhere |
+  The A List (Site Description)"
 permalink: none
 baseurl: ""
 exclude:
