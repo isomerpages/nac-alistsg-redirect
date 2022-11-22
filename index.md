@@ -29,8 +29,4 @@ sections:
         culture scene
       button: Social Media
       url: /faq/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
