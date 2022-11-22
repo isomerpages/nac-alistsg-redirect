@@ -2,4 +2,5 @@ collections:
   articlefolder:
     output: true
     order:
+      - Article2.md
       - Article1.md
