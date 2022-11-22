@@ -22,7 +22,7 @@ sections:
             url: https://www.youtube.com/user/AListSG
   - infobar:
       title: Maintenance
-      subtitle: (Max 30char)
+      subtitle: (Max 30char) (Only one link)
       description: We are upgrading A-List.sg to serve you better. Visit our social
         media pages below to get updates on the arts and culture scene
       button: Facebook
