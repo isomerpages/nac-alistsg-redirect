@@ -4,7 +4,7 @@ title: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A 
 description: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
 image: /images/AListLogo.png
 permalink: /
-notification: Maintenance
+notification: Maintenance (Can remove this bar too)
 sections:
   - hero:
       title: Maintenance
