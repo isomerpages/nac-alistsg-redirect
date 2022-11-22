@@ -7,7 +7,7 @@ permalink: /
 notification: Scheduled Maintenance (This bar can be removed)
 sections:
   - hero:
-      title: "Maintenance (Max: 60 Chars)"
+      title: Maintenance
       subtitle: "We are upgrading A-List.sg to serve you better. Visit our social
         media pages below to get updates on the arts and culture scene. (Max:
         160chars) "
