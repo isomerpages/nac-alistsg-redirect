@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
+description: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A List"
 image: /images/AListLogo.png
 permalink: /
 notification: Maintenance
@@ -27,4 +27,5 @@ sections:
       button: Social Media
       url: /faq/
 ---
+
 
