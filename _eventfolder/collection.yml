@@ -2,5 +2,6 @@ collections:
   eventfolder:
     output: true
     order:
+      - Event33.md
       - THE A LIST RECOMMENDS/Event1.md
       - THE A LIST RECOMMENDS/.keep
