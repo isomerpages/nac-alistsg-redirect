@@ -1,13 +1,9 @@
 logo: /images/AList_Logo.png
 links:
-  - title: Events
-    collection: events
-  - title: NEWS & VIEWS
-    collection: articles
-  - title: Contact Us
-    url: /contact-us/
   - title: CONNECT
-    url: /contact-us/
+    url: https://www.nac.gov.sg/contact-us
     sublinks:
       - title: FEEDBACK
         url: https://www.form.gov.sg/637c743925ead60011ab0f73
+  - title: CONNECT
+    url: https://www.nac.gov.sg/contact-us
