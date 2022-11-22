@@ -13,7 +13,7 @@ sections:
       background: /images/BGimage.png
       key_highlights:
         - title: Facebook
-          description: ""
+          description: Visti our Facebook (Max 30)
           url: https://www.facebook.com/TheAListSG/
         - title: Instagram
           description: ""
