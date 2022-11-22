@@ -31,7 +31,7 @@ sections:
       subtitle: "Subtitle: (30char)"
       description: "Performance details: 2.30–3pm | 4–4.30pm Level 1 and B1, Padang Atrium"
       button: Read More
-      url: /event1
+      url: /event1/
       image: /images/Event1.png
       alt: Image alt text
 ---
