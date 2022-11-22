@@ -17,6 +17,8 @@ sections:
             url: X
           - title: Instagram
             url: ""
+          - title: Youtube
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
