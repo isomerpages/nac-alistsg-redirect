@@ -26,6 +26,12 @@ sections:
         culture scene
       button: Social Media
       url: /faq/
+  - infopic:
+      title: When Flowers Fade by Chowk Productions feat. Damaru (60char)
+      subtitle: "Nothing is Forever: (30char)"
+      description: "Performance details: 2.30–3pm | 4–4.30pm Level 1 and B1, Padang Atrium"
+      button: Read More
+      url: /event1
+      image: /images/Event1.png
+      alt: Image alt text
 ---
-
-
