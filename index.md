@@ -21,10 +21,10 @@ sections:
           - title: Youtube
             url: https://www.youtube.com/user/AListSG
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: Visit our social media pages below to get updates on the arts and
-        culture scene
+      title: Maintenance
+      subtitle: (Max 30char)
+      description: We are upgrading A-List.sg to serve you better. Visit our social
+        media pages below to get updates on the arts and culture scene
       button: Facebook
       url: https://www.facebook.com/TheAListSG/
   - infopic:
