@@ -10,9 +10,9 @@ notification: Scheduled Maintenance (This bar can be removed)
 sections:
   - hero:
       title: Maintenance
-      subtitle: "We are upgrading A-List.sg to serve you better. Visit our social
-        media pages below to get updates on the arts and culture scene. (Max:
-        160chars) "
+      subtitle: We are upgrading our website to serve you better. Visit our social
+        media pages below to stay up to date on the arts and culture scene in
+        Singapore.
       background: /images/BGimage.png
       key_highlights:
         - title: Facebook
@@ -25,5 +25,3 @@ sections:
           description: Visit our Youtube (Max 30)
           url: https://staging.d17re2ghaaamxs.amplifyapp.com/
 ---
-
-
