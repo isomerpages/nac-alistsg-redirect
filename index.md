@@ -23,4 +23,5 @@ sections:
         - title: Youtube
           description: Visit our Youtube (Max 30)
           url: https://staging.d17re2ghaaamxs.amplifyapp.com/
+      background: /images/BGimage3.png
 ---
