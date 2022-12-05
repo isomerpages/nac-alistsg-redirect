@@ -22,6 +22,6 @@ sections:
           url: https://www.instagram.com/alistsg
         - title: Youtube
           description: Visit our Youtube (Max 30)
-          url: https://staging.d17re2ghaaamxs.amplifyapp.com/
+          url: https://www.youtube.com/user/AListSG
       background: /images/BGimage3.png
 ---
