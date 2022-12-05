@@ -13,7 +13,6 @@ sections:
       subtitle: We are upgrading our website to serve you better. Visit our social
         media pages below to stay up to date on the arts and culture scene in
         Singapore.
-      background: /images/BGimage2-1.png
       key_highlights:
         - title: Facebook
           description: Visit our Facebook (Max 30)
