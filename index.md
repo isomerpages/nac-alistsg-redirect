@@ -6,7 +6,7 @@ description: "Experience Singapore's arts and culture with #SGCultureAnywhere |
   The A List (Site Description)"
 image: /images/AList_Logo.png
 permalink: /
-notification: Scheduled Maintenance (This bar can be removed)
+notification: ""
 sections:
   - hero:
       title: Maintenance
