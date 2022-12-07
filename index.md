@@ -1,9 +1,7 @@
 ---
 layout: homepage
-title: "Experience Singapore's arts and culture with #SGCultureAnywhere | The A
-  List (This Site Title can be amended but not removed)"
-description: "Experience Singapore's arts and culture with #SGCultureAnywhere |
-  The A List (Site Description)"
+title: The A List
+description: The A List
 image: /images/AList_Logo.png
 permalink: /
 notification: ""
@@ -24,3 +22,4 @@ sections:
           url: https://www.youtube.com/user/AListSG
       background: /images/BGimage3.png
 ---
+
