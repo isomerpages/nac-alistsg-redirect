@@ -12,14 +12,13 @@ sections:
         Singapore."
       key_highlights:
         - title: Facebook
-          description: Visit our Facebook (Max 30)
+          description: ""
           url: https://www.facebook.com/TheAListSG/
         - title: Instagram
-          description: Visit our Instagram (Max 30)
+          description: ""
           url: https://www.instagram.com/alistsg
         - title: Youtube
-          description: Visit our Youtube (Max 30)
+          description: ""
           url: https://www.youtube.com/user/AListSG
       background: /images/BGimage3.png
 ---
-
