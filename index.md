@@ -9,7 +9,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Maintenance
       subtitle: We are upgrading our website to serve you better. Visit our social
         media pages below to stay up to date on the arts and culture scene in
         Singapore.
