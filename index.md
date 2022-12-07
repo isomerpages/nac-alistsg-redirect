@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: We are upgrading our website to serve you better. Visit our social
+      subtitle: " We are upgrading our website to serve you better. Visit our social
         media pages below to stay up to date on the arts and culture scene in
-        Singapore.
+        Singapore."
       key_highlights:
         - title: Facebook
           description: Visit our Facebook (Max 30)
