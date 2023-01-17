@@ -1,8 +1,0 @@
-collections:
-  events:
-    output: true
-    order:
-      - THE A LIST RECOMMENDS/.keep
-      - THE A LIST RECOMMENDS/Event1.md
-      - LET'S GET OUT/.keep
-      - LET'S GET OUT/Event33.md
