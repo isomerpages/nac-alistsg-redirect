@@ -1,6 +1,0 @@
-collections:
-  articles:
-    output: true
-    order:
-      - Article1.md
-      - Article2.md
