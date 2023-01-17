@@ -1,32 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: The A List
+description: The A List
+image: /images/AList_Logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      subtitle: " We are upgrading our website to serve you better. Visit our social
+        media pages below to stay up to date on the arts and culture scene in
+        Singapore."
+      key_highlights:
+        - title: Facebook
+          description: ""
+          url: https://www.facebook.com/TheAListSG/
+        - title: Instagram
+          description: ""
+          url: https://www.instagram.com/alistsg
+        - title: Youtube
+          description: ""
+          url: https://www.youtube.com/user/AListSG
+      background: /images/BGimage4.png
 ---
-
