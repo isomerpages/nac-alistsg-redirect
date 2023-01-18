@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: " We are upgrading our website to serve you better. Visit our social
-        media pages below to stay up to date on the arts and culture scene in
-        Singapore."
+      subtitle: " "
       key_highlights:
         - title: Facebook
           description: ""
@@ -20,6 +18,6 @@ sections:
         - title: Youtube
           description: ""
           url: https://www.youtube.com/user/AListSG
-      background: /images/BGimage4.png
-      title: " Upgrading"
+      background: /images/BGimage9.jpg
+      title: " "
 ---
