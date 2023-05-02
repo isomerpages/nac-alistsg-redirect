@@ -16,6 +16,6 @@ To safeguard your personal data, all electronic storage and transmission of pers
 
 This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-Please contact nac_feedback@nac.gov.sg:
+Please contact nac_feedback@nac.gov.sg
 
 (a) For any enquires or feedback on our data protection policies and procedures, (b) If you require more information on or access to the data which you have earlier provided to us.
