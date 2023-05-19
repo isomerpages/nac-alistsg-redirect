@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: " "
+      subtitle: text text text
       key_highlights:
         - title: Facebook
           description: ""
@@ -18,6 +18,8 @@ sections:
         - title: Youtube
           description: ""
           url: https://www.youtube.com/user/AListSG
-      background: /images/BGimage10.jpg
-      title: " "
+      background: /images/BGimage.png
+      title: Hop on to Catch
+      button: Catch.sg
+      url: https://www.catch.sg
 ---
