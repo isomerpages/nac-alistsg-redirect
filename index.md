@@ -4,9 +4,9 @@ title: The A List
 description: The A List
 image: /images/AList_Logo.png
 permalink: /
-notification: "*Thank you for your support. * The A List will be closing this
+notification: Thank you for your support. The A List will be closing this
   chapter as we are building something more exciting, and we can’t wait to share
-  with you."
+  with you.
 sections:
   - hero:
       subtitle: Join us on the journey to build a platform where you can share your
