@@ -6,11 +6,10 @@ image: /images/AList_Logo.png
 permalink: /
 notification: Thank you for your support. The A List will be closing this
   chapter as we are building something more exciting, and we can’t wait to share
-  with you.
+  with you. Join us on the journey to build a platform where you can share your
+  arts and culture experience with like-minded people.
 sections:
   - hero:
-      subtitle: Join us on the journey to build a platform where you can share your
-        arts and culture experience with like-minded people.
       key_highlights:
         - title: Facebook
           description: ""
