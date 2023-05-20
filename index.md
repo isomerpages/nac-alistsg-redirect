@@ -19,8 +19,8 @@ sections:
         - title: Youtube
           description: ""
           url: https://www.youtube.com/user/AListSG
-      background: /images/BGimage.png
-      title: Catch you on the flip side!
+      background: /images/BGimage3.png
+      title: Find out what's the Catch
       button: CATCH (beta)
       url: https://www.catch.sg
 ---
