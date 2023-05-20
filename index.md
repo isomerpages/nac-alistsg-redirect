@@ -19,7 +19,7 @@ sections:
         - title: Youtube
           description: ""
           url: https://www.youtube.com/user/AListSG
-      background: /images/BGimage3.png
+      background: /images/bg_image.PNG
       title: Find out what's the Catch
       button: CATCH (beta)
       url: https://www.catch.sg
