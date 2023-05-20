@@ -4,9 +4,9 @@ title: The A List
 description: The A List
 image: /images/AList_Logo.png
 permalink: /
-notification: The A List is in transit to something exciting, and we can’t wait
-  to share with you. Meet CATCH (beta), your new personalised go-to guide to
-  discovering all things arts and culture. We’ll catch you on the flip side!
+notification: Thank you for your support. The A List is in transit to something
+  more exciting, and we can’t wait to share with you. Meet CATCH (beta), your
+  new personalised go-to guide for all things arts and culture.
 sections:
   - hero:
       key_highlights:
@@ -20,7 +20,7 @@ sections:
           description: ""
           url: https://www.youtube.com/user/AListSG
       background: /images/BGimage.png
-      title: Find out what’s the Catch
+      title: Catch you on the flip side!
       button: CATCH (beta)
       url: https://www.catch.sg
 ---
