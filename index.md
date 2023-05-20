@@ -21,8 +21,7 @@ sections:
           description: ""
           url: https://www.youtube.com/user/AListSG
       background: /images/BGimage.png
-      title: What’s the Catch?
+      title: Find out what’s the Catch
       button: CATCH (beta)
       url: https://www.catch.sg
-      subtitle: Find out more.
 ---
