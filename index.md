@@ -4,10 +4,10 @@ title: The A List
 description: The A List
 image: /images/AList_Logo.png
 permalink: /
-notification: Thank you for your support. The A List will be closing this
-  chapter as we are building something more exciting, and we can’t wait to share
-  with you. Introducing CATCH (beta). Join us on the journey to build a platform
-  where you can share your arts and culture experience with like-minded people.
+notification: Thank you for your support. The A List is in transit to something
+  more exciting, and we can’t wait to share with you. Meet CATCH (beta), your
+  new personalised go-to guide to discovering all things arts and culture. We’ll
+  catch you on the flip side!
 sections:
   - hero:
       key_highlights:
