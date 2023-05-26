@@ -12,13 +12,13 @@ sections:
       key_highlights:
         - title: Facebook
           description: ""
-          url: https://www.facebook.com/TheAListSG/
+          url: https://www.facebook.com/officialcatch.sg
         - title: Instagram
           description: ""
-          url: https://www.instagram.com/alistsg
+          url: https://www.instagram.com/catch.singapore
         - title: Youtube
           description: ""
-          url: https://www.youtube.com/user/AListSG
+          url: https://www.youtube.com/@catchsingapore
       background: /images/bg_image.PNG
       title: Find out what's the Catch
       button: CATCH (beta)
