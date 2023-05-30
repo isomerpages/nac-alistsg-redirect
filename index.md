@@ -4,20 +4,23 @@ title: The A List
 description: The A List
 image: /images/AList_Logo.png
 permalink: /
-notification: ""
+notification: Thank you for your support. The A List is in transit to something
+  more exciting, and we can’t wait to share with you. Meet CATCH (beta), your
+  new personalised go-to guide for all things arts and culture.
 sections:
   - hero:
-      subtitle: " "
       key_highlights:
         - title: Facebook
           description: ""
-          url: https://www.facebook.com/TheAListSG/
+          url: https://www.facebook.com/officialcatch.sg
         - title: Instagram
           description: ""
-          url: https://www.instagram.com/alistsg
+          url: https://www.instagram.com/catch.singapore
         - title: Youtube
           description: ""
-          url: https://www.youtube.com/user/AListSG
-      background: /images/BGimage10.jpg
-      title: " "
+          url: https://www.youtube.com/@catchsingapore
+      background: /images/bg_image.PNG
+      title: Find out what's the Catch
+      button: CATCH (beta)
+      url: https://www.catch.sg
 ---
